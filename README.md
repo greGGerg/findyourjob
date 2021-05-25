@@ -1,2 +1,8 @@
 # findyourjob
-Glo-academy training project
+Учебный проекто Glo Academy
+Проект выполнил: Nikita Greggerg
+
+Используются:
+- HTML
+- CSS
+- Bootstrap
